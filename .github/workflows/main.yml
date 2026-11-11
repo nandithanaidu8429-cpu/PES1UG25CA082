@@ -6,3 +6,5 @@ jobs:
     steps:
       - name: Say Hello
         run: echo "Hello from GitHub Actions!"
+      - name: Run script
+        run: node -e "console.log('Custom Node.js script executed successfully!')"
