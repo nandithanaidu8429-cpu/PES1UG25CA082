@@ -31,8 +31,8 @@ greet()
 2. Run the main script to view the expected output: `Welcome to Student Task Manager!`.
 
 ## Documentation & Community
-- 📖 Explore full guides on our [Project Wiki](../../wiki) (see the [Setup Guide](../../wiki/Setup-Guide)).
-- 🤝 Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+- Explore full guides on our [Project Wiki](../../wiki) (see the [Setup Guide](../../wiki/Setup-Guide)).
+- Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 3. Visit [GitHub](https://github.com) to track your repository updates.
 
